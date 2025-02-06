@@ -86,9 +86,10 @@ Join the conversation and contribute to shaping the future of **objective observ
 
 This project is part of the broader **OpenData.AI** initiative (OOIOX), striving to create **a trustable, open, and verifiable data ecosystem** that aligns with human and institutional agency.
 
-OX - objective experience - represented by instrumentation that will form from a start of authority model located at opendata.ai
-CX - code experience - represended by this project and the practitioner discussions formed by developers and contributors.
-SX - social experience - represented by those that opt into the concepts related to building social capital via agency oriented value operations.
+- OX: **objective experience** is represented by instrumentation that will form from a start of authority model located at opendata.ai
+- CX: **code experience** is represended by this project and the practitioner discussions formed by developers and contributors.
+- SX: **social experience** is represented by those that opt into the concepts related to building social capital via agency oriented value operations.
+
 ---
 
 🚀 **OOICX is a foundation, not a final form.** The initiative invites all contributors to help shape and extend its impact—while ensuring the integrity of its observer state remains intact. Let’s build the future of public interest data together!
